@@ -4,6 +4,9 @@ Este projeto faz parte dos meus estudos de SQL, com foco nos conceitos fundament
 
 Ao longo do desenvolvimento desta consulta, pratiquei diversos recursos importantes da linguagem SQL e aprendi como transformar dados brutos em informações úteis para análise.
 
+Para ter acesso aos dados que ultilei basta acessar esse link e baixar os dados :
+https://www.kaggle.com/datasets/teocalvo/teomewhy-loyalty-system
+
 ## Conceitos estudados
 
 ### Common Table Expressions (CTEs)
